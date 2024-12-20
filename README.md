@@ -33,7 +33,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/osman-goni-82172321a)
-- [Twitter](@Osman_tweets_)
+- [LinkedIn](https://www.linkedin.com/in/osman-goni-82172321a/)
+- [Twitter](https://x.com/Osman_tweets_?t=AMgxPofPxi982cvUXpYgBA&s=09)
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
