@@ -1,4 +1,4 @@
-# Hi there, I'm Zids-C! 👋
+# Hi there, I'm Osman! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zids-C&color=blue)
 
