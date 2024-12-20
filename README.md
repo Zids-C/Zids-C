@@ -35,5 +35,6 @@ Here are some of the projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/osman-goni-82172321a/)
 - [Twitter](https://x.com/Osman_tweets_?t=AMgxPofPxi982cvUXpYgBA&s=09)
+- [Facebook](https://www.facebook.com/Osman.Goni.70)
 
 Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
