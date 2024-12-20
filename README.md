@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a passionate developer with a love for creating innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development, and I'm always looking for new challenges to improve my skills.
+I'm a passionate programmer with a love for creating innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development, and I'm always looking for new challenges to improve my skills.
 
 - 🌱 I’m currently learning **[Neural Networks]**
 - 💬 Ask me about **[Machine Learning]**
