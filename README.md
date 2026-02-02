@@ -1,4 +1,4 @@
-# Hi, I'm Osman Goni
+# Hi, I'm Osman
 Software Engineer | Research-Oriented Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zids-C&color=0e75b6&style=flat)
