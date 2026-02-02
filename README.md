@@ -1,40 +1,54 @@
-# Hi there, I'm Osman! 👋
+# Hi, I'm Osman
+Software Engineer | Research-Oriented Developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zids-C&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Zids-C&color=0e75b6&style=flat)
+
+---
 
 ## About Me
 
-I'm a passionate programmer with a love for creating innovative solutions and learning new technologies. I enjoy working on both front-end and back-end development, and I'm always looking for new challenges to improve my skills.
+I am a software engineer with strong programming fundamentals and an increasing focus on computer vision and AI research.  
+I enjoy building scalable systems, experimenting with modern models, and solving problems that require both engineering and analytical thinking.
 
-- 🌱 I’m currently Researching **[Computer Vision Models]**
-- 💬 Ask me about **[AI, Machine Learning]**
-- 📫 How to reach me: **[osmancgoni@gmail.com]**
+- Currently researching **Computer Vision and Medical Imaging Models**
+- Interested in **AI, Machine Learning, Deep Learning**
+- Email: **osmancgoni@gmail.com**
 
-## Skills
+---
 
-- **Languages**: [C++,Java,C#,Python] 
-- **Frameworks**: [.NET,React]
-- **Tools**: [VsCode, Intellij, Github]
+## Technical Skills
+
+**Languages**
+- C++, Java, C#, Python
+
+**Frameworks**
+- .NET, Spring Boot, React
+
+**Tools**
+- Git, GitHub, VS Code, IntelliJ, Linux
+
+---
 
 ## Projects
 
-Here are some of the projects I've worked on:
+### Yum Cycle
+- **Description**: A platform to coordinate excess food delivery from restaurants to people in need.
+- **Focus**: Backend services, API design, system coordination
 
+*(More projects will be added.)*
 
-### [Project Name](link-to-project)
-- **Description**: []
-- **Technologies Used**: []
+---
 
-## GitHub Stats
+## GitHub Statistics
 
-![Zids-C's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zids-C&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Zids-C&show_icons=true&count_private=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zids-C&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zids-C&layout=compact&theme=radical&hide_border=true)
 
-## Connect with Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/osman-goni-82172321a/)
-- [Twitter](https://x.com/Osman_tweets_?t=AMgxPofPxi982cvUXpYgBA&s=09)
-- [Facebook](https://www.facebook.com/Osman.Goni.70)
+## Connect With Me
 
-Thanks for stopping by! Feel free to reach out if you want to collaborate on a project or just say hi! 😊
+- LinkedIn: https://www.linkedin.com/in/osman-goni-82172321a/
+- Twitter/X: https://x.com/Osman_tweets_
+- Facebook: https://www.facebook.com/Osman.Goni.70
