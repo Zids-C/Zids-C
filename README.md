@@ -88,7 +88,7 @@ I am a motivated software engineer with a strong foundation in programming and a
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/osman-goni-82172321a/
+- LinkedIn: https://www.linkedin.com/in/goni-osman
 - GitHub: https://github.com/Zids-C
 - Twitter/X: https://x.com/Osman_tweets_
 - Facebook: https://www.facebook.com/Osman.Goni.70
