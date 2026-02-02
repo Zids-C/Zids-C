@@ -1,4 +1,4 @@
-# Hi, I'm Osman
+# Hi, I'm Osman Goni
 Software Engineer | Research-Oriented Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Zids-C&color=0e75b6&style=flat)
@@ -7,11 +7,11 @@ Software Engineer | Research-Oriented Developer
 
 ## About Me
 
-I am a software engineer with strong programming fundamentals and an increasing focus on computer vision and AI research.  
-I enjoy building scalable systems, experimenting with modern models, and solving problems that require both engineering and analytical thinking.
+I am a motivated software engineer with a strong foundation in programming and a growing focus on **computer vision and deep learning research**. I actively participate in competitive programming and enjoy building structured, efficient software systems while continuously improving my algorithmic and analytical skills.
 
-- Currently researching **Computer Vision and Medical Imaging Models**
+- Currently researching **Computer Vision & Medical Imaging**
 - Interested in **AI, Machine Learning, Deep Learning**
+- Competitive programming enthusiast (Codeforces, CodeChef)
 - Email: **osmancgoni@gmail.com**
 
 ---
@@ -19,23 +19,60 @@ I enjoy building scalable systems, experimenting with modern models, and solving
 ## Technical Skills
 
 **Languages**
-- C++, Java, C#, Python
+- C++, Java, C#, Python, SQL, JavaScript
 
-**Frameworks**
-- .NET, Spring Boot, React
+**Frameworks & Libraries**
+- .NET, Spring Boot, React, PyTorch, Node.js
 
-**Tools**
-- Git, GitHub, VS Code, IntelliJ, Linux
+**Tools & Platforms**
+- Git, GitHub, VS Code, IntelliJ, Linux, MySQL, Microsoft SQL Server
 
 ---
 
-## Projects
+## Projects & Research
 
-### Yum Cycle
-- **Description**: A platform to coordinate excess food delivery from restaurants to people in need.
-- **Focus**: Backend services, API design, system coordination
+### Nursery Management Desktop Software
+- **Description**: Local desktop application for managing nursery operations.
+- **Tech Stack**: C#, MySQL
+- **Highlights**:
+  - Clean and precise C# implementation
+  - Database-driven workflow using MySQL
+  - Version control and collaboration via Git & GitHub
 
-*(More projects will be added.)*
+---
+
+### Hospital Management System
+- **Description**: Desktop-based system for managing hospital data and operations.
+- **Tech Stack**: .NET, Microsoft SQL Server
+- **Highlights**:
+  - Organized and modular .NET architecture
+  - Secure API design following **SOLID principles**
+  - Structured data management using MS SQL
+
+---
+
+### Research Project: Balanced Dataset Generation for Deep Learning
+- **Domain**: Deep Learning, Computer Vision
+- **Duration**: 2024 – 2025
+- **Description**:
+  - Addressed inefficiency caused by **imbalanced datasets**
+  - Improved upon previous **Double GAN** work
+- **Key Contributions**:
+  - Used **CycleGAN** to generate balanced datasets
+  - Improved model efficiency and performance
+  - Reduced training time, memory usage, and overall complexity
+
+---
+
+### Competitive Programming
+- **Platforms**: Codeforces, CodeChef
+- **Experience**: 2022 – Present
+- **Achievements**:
+  - Codeforces: **Newbie (1102)**
+  - CodeChef: **2★ (1405)**
+- **Focus**:
+  - Data Structures & Algorithms
+  - Optimization and problem-solving under constraints
 
 ---
 
@@ -50,5 +87,6 @@ I enjoy building scalable systems, experimenting with modern models, and solving
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/osman-goni-82172321a/
+- GitHub: https://github.com/Zids-C
 - Twitter/X: https://x.com/Osman_tweets_
 - Facebook: https://www.facebook.com/Osman.Goni.70
