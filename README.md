@@ -31,15 +31,7 @@ I am a motivated software engineer with a strong foundation in programming and a
 
 ## Projects & Research
 
-### Nursery Management Desktop Software
-- **Description**: Local desktop application for managing nursery operations.
-- **Tech Stack**: C#, MySQL
-- **Highlights**:
-  - Clean and precise C# implementation
-  - Database-driven workflow using MySQL
-  - Version control and collaboration via Git & GitHub
 
----
 
 ### Hospital Management System
 - **Description**: Desktop-based system for managing hospital data and operations.
@@ -48,6 +40,16 @@ I am a motivated software engineer with a strong foundation in programming and a
   - Organized and modular .NET architecture
   - Secure API design following **SOLID principles**
   - Structured data management using MS SQL
+
+---
+
+### Nursery Management Desktop Software
+- **Description**: Local desktop application for managing nursery operations.
+- **Tech Stack**: C#, MySQL
+- **Highlights**:
+  - Clean and precise C# implementation
+  - Database-driven workflow using MySQL
+  - Version control and collaboration via Git & GitHub
 
 ---
 
